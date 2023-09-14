@@ -1,3 +1,11 @@
+import keras
+from keras.models import Sequential
+from keras.layers import Dense
+from keras.optimizers import Adam
+from tensorflow.keras.utils import to_categorical
+from keras.layers import Dropout, Flatten
+from tensorflow.keras.layers import Conv2D, MaxPooling2D
+
 def modified_model():
   model = Sequential()
 
