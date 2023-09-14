@@ -8,7 +8,7 @@ This project focuses on Traffic Sign Detection using Convolutional Neural Networ
 - **GitHub Repository:** [Traffic_Sign_Detection_CNN_Data_Augmentation](https://github.com/mrunmayee17/Traffic_Sign_Detection_CNN_Data_Augmentation.git)
 
 
-![ts](https://github.com/mrunmayee17/Traffic_Sign_Detection_CNN_Data_Augmentation/assets/48186569/766c531c-f3bf-4bbb-b7e4-c90d703662d1)
+![ts](https://github.com/mrunmayee17/Traffic_Sign_Detection_CNN_Data_Augmentation/assets/48186569/bacfed48-2913-4e4c-97cc-2e85ea209e0d)
 
 
 ## Setup and Dependencies
@@ -26,6 +26,9 @@ Reference file: utility/load_dataset.py
 * 		Data Preprocessing: Images are preprocessed by applying gray scaling and histogram equalization.
 Reference file: utility/preprocess_image.py 
 * 		Data Augmentation: Data augmentation techniques are used to increase the size of the training dataset.
+
+  ![da](https://github.com/mrunmayee17/Traffic_Sign_Detection_CNN_Data_Augmentation/assets/48186569/06172bab-6e23-4f25-ba2b-63b9d40c588f)
+
 * 		Model Building: A Convolutional Neural Network (CNN) model is defined for traffic sign detection.
 Reference file: utility/load_model.py 
 * 		Training: The CNN model is trained using the training dataset, with validation on a separate validation dataset.
