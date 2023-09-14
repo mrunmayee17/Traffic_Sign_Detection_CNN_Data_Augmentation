@@ -6,7 +6,7 @@ This project focuses on Traffic Sign Detection using Convolutional Neural Networ
 
 - **Dataset:** [German Traffic Signs](https://bitbucket.org/jadslim/german-traffic-signs)
 - **GitHub Repository:** [Traffic_Sign_Detection_CNN_Data_Augmentation](https://github.com/mrunmayee17/Traffic_Sign_Detection_CNN_Data_Augmentation.git)
-
+![alt text](https://drive.google.com/file/d/16C_tlg0qgx8qGkDzXq9MW0BxOg03BYMr/view?usp=drive_link)
 ## Setup and Dependencies
 
 1. Clone the GitHub repository:
