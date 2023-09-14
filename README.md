@@ -17,10 +17,13 @@ This project focuses on Traffic Sign Detection using Convolutional Neural Networ
 * 		Install the required libraries, including TensorFlow and Keras.
 * 		Execute the provided Jupyter Notebook (main.ipynb) to run the project.
 Key Steps
-* 		Loading the Dataset: The project uses the German Traffic Signs dataset, which contains various traffic sign images. Reference file: utility/load_dataset.py 
-* 		Data Preprocessing: Images are preprocessed by applying gray scaling and histogram equalization. Reference file: utility/preprocess_image.py 
+* 		Loading the Dataset: The project uses the German Traffic Signs dataset, which contains various traffic sign images.
+Reference file: utility/load_dataset.py 
+* 		Data Preprocessing: Images are preprocessed by applying gray scaling and histogram equalization.
+Reference file: utility/preprocess_image.py 
 * 		Data Augmentation: Data augmentation techniques are used to increase the size of the training dataset.
-* 		Model Building: A Convolutional Neural Network (CNN) model is defined for traffic sign detection. Reference file: utility/load_model.py 
+* 		Model Building: A Convolutional Neural Network (CNN) model is defined for traffic sign detection.
+Reference file: utility/load_model.py 
 * 		Training: The CNN model is trained using the training dataset, with validation on a separate validation dataset.
 * 		Evaluation: The model's performance is evaluated using test data, and metrics like accuracy and loss are plotted.
 * 		Prediction: The trained model is used to predict traffic signs on sample images.
