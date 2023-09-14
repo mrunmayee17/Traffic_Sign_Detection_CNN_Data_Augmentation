@@ -8,8 +8,7 @@ This project focuses on Traffic Sign Detection using Convolutional Neural Networ
 - **GitHub Repository:** [Traffic_Sign_Detection_CNN_Data_Augmentation](https://github.com/mrunmayee17/Traffic_Sign_Detection_CNN_Data_Augmentation.git)
 
 
-![Alt Text](https://drive.google.com/file/d/16C_tlg0qgx8qGkDzXq9MW0BxOg03BYMr/view?usp=drive_link)
-
+![ts](https://github.com/mrunmayee17/Traffic_Sign_Detection_CNN_Data_Augmentation/assets/48186569/766c531c-f3bf-4bbb-b7e4-c90d703662d1)
 
 
 ## Setup and Dependencies
