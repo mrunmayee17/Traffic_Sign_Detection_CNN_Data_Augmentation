@@ -1,6 +1,6 @@
 # Traffic Sign Detection using CNN & Data Augmentation
 
-This project focuses on Traffic Sign Detection using Convolutional Neural Networks (CNN) with an emphasis on data augmentation.
+This project focuses on Traffic Sign Detection using Convolutional Neural Networks with an emphasis on data augmentation.
 
 ## Overview
 
